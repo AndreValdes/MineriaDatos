@@ -10,7 +10,7 @@
 
 [Resumentes: Tecnicas Mineria de Datos](https://github.com/AndreValdes/MineriaDatos/blob/master/Resumenes_1887881.pdf)
 
-
+[Mapa Mental II](https://github.com/AndreValdes/MineriaDatos/blob/master/Mapa%20Mental%20II.pdf)
 
 
 
