@@ -12,5 +12,8 @@
 
 [Mapa Mental II](https://github.com/AndreValdes/MineriaDatos/blob/master/Mapa%20Mental%20II.pdf)
 
+## Fase II
+
+[Analisis de Base de Datos]
 
 
