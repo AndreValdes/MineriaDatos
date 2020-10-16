@@ -14,6 +14,7 @@
 
 ## Fase II
 
-[Analisis de Base de Datos]
+[Analisis de Base de Datos](https://github.com/AndreValdes/MineriaDatos/blob/master/BASEDATOS_1887881.pdf)
+
 
 
